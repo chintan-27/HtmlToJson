@@ -1,0 +1,6 @@
+Flask
+xmltojson
+xmltodict
+flask-cors
+utils
+gunicorn
